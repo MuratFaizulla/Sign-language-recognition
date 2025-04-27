@@ -1,6 +1,6 @@
 import {Finger, FingerCurl, FingerDirection, GestureDescription} from 'fingerpose';
 
-export const bSign = new GestureDescription('қалайсың');
+export const bSign = new GestureDescription('Как дела');
 // [
 //     [
 //       "Thumb",
